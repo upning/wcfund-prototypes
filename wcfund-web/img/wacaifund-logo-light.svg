@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="480px" height="31px" viewBox="0 0 480 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.5.1 (25233) - http://www.bohemiancoding.com/sketch -->
+    <title>wacaifund-logo-dark</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="wacai-fund-logo-dark" sketch:type="MSLayerGroup" transform="translate(-1.000000, -7.000000)">
+            <text id="挖财基金" sketch:type="MSTextLayer" font-family="Microsoft YaHei,微软雅黑,PingFang SC,Hiragino Sans GB,Helvetica Neue,Helvetica,Arial,STHeitiSC-Light,sans-serif" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="2">
+                <tspan x="0" y="34" fill="#333">挖财</tspan>
+                <tspan x="68" y="34" fill="#F03B18">基</tspan>
+                <tspan x="102" y="34" fill="#F03B18">金</tspan>
+            </text>
+            <text id="上海挖财金融信息服务有限公司" opacity="0.7" sketch:type="MSTextLayer" font-family="Microsoft YaHei,微软雅黑,PingFang SC,Hiragino Sans GB,Helvetica Neue,Helvetica,Arial,STHeitiSC-Light,sans-serif" font-size="20" font-weight="normal" letter-spacing="2.5" fill="#999">
+                <tspan x="169" y="35">上海挖财金融信息服务有限公</tspan>
+                <tspan x="461.5" y="35" letter-spacing="3.125">司</tspan>
+            </text>
+            <path d="M151.5,20.5 L151.5,36.5" id="Line" stroke="#999" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
